@@ -1,0 +1,2 @@
+# agyemang
+Practising coding challenges
